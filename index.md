@@ -8,7 +8,7 @@
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/ITA%20UDOTONG.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](https://github.com/itaudotong/udotong6953.github.io/blob/master/images/ibom.lng-Model.pdf)
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/ibom.lng-Model.pdf?raw=true"/>
 
 ---
