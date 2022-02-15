@@ -23,7 +23,7 @@
 
 ### Walkshed of major grocery stores in Hillsborough County.
 
-- [Project 1 Title](https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map5.jpg)
+- [Largest and smallest walkshed of 1 mile radius around major grocery stores in Hillsborough](/sample_page)
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map5.jpg?raw=true"/>
 
 - [Project 2 Title](https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map2.jpg)
