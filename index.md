@@ -17,7 +17,7 @@
 
 ---
 
-[Percentage of White population and Black or African American population in Hillsborough County](http://example.com/)
+[Percentage of White population and Black or African American population below poverty level in Hillsborough County](http://example.com/)
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map4.jpg?raw=true"/>
 
 
