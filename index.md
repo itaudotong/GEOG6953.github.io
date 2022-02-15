@@ -12,7 +12,7 @@
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Percentage of White population and Black or African American population in Hillsborough County](http://example.com/)
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map3.jpg?raw=true"/>
 
 ---
