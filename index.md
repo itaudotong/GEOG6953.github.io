@@ -8,12 +8,12 @@
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/sample_page)
+[Major grocery stores that accepts food stamp in Hillsborough County](/sample_page)
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map2.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map3.jpg?raw=true"/>
 
 ---
 
