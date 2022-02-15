@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/ITA%20UDOTONG.jpg?raw=true"/>
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map1.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/sample_page)
