@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Project 1 Title](https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map1.jpg)
-- [Project 2 Title](http://example.com/)
+- [Project 2 Title](https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map2.jpg)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
