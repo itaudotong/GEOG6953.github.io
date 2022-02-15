@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Spatial SNAP Distribution in Hillsborough County, Florida
 
-[SNAP Distribution in Hillsborough County, Florida](/sample_page)
+[Location of Hillsborough County in Florida](/sample_page)
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map1.jpg?raw=true"/>
 
 ---
