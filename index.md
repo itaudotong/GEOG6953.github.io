@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/sample_page)
-<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/ibom.lng-Model.pdf?raw=true"/>
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map2.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
