@@ -69,3 +69,14 @@
 
 ---
 
+### Hotspot Analysis
+
+- [South South States of Nigeria](/sample_page)
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/SS%20States%20Nigerian%20map.jpg?raw=true"/>
+
+---
+
+- [Local Goverbment Areas in South South States of Nigeria](/sample_page)
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/SS%20lga.jpg?raw=true"/>
+
+---
