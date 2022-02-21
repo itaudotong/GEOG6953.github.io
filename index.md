@@ -41,13 +41,23 @@
 
 ---
 
-### Classification of towns into Urban and Rural areas in South South Staes of Nigeria Geo Political Zones.
+### Classification of towns into Urban and Rural areas in South South States of Nigeria Geo Political Zones.
 
-- [South South Sates of Nigeria](/sample_page)
+- [South South States of Nigeria](/sample_page)
 <img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/SS%20States%20Nigerian%20map.jpg?raw=true"/>
 
 ---
 
-- [Map of Nigeria geo political zones](/sample_page)
-<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/Nigeria_Geo_Political_Map.jpg?raw=true"/>
+- [Local Goverbment Areas in South South States of Nigeria](/sample_page)
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/SS%20lga.jpg?raw=true"/>
+
+---
+
+- [South South States of Nigeria](/sample_page)
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/SS%20States%20Nigerian%20map.jpg?raw=true"/>
+
+---
+
+- [Local Goverbment Areas in South South States of Nigeria](/sample_page)
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/SS%20lga.jpg?raw=true"/>
 
