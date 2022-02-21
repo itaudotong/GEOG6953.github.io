@@ -65,7 +65,7 @@
 
 ### State wide GPS control establishment for mapping
 - [Map shewing First Order GPS Control point in Akwa Ibom](/sample_page)
-<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/SS%20States%20Nigerian%20map.jpg?raw=true"/>
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/aks%20gps.jpg?raw=true"/>
 
 ---
 
