@@ -58,6 +58,6 @@
 
 ---
 
-- [Local Goverbment Areas in South South States of Nigeria](/sample_page)
-<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/SS%20lga.jpg?raw=true"/>
+- [Urban and Rural Areas in South South States of Nigeria](/sample_page)
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/SS%20urban_rural.jpg?raw=true"/>
 
