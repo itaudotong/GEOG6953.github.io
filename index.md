@@ -32,9 +32,12 @@
 ### Delineation and mapping of Nigeria Geo Political Zones.
 
 - [Map of Nigeria](/sample_page)
-<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/map5.jpg?raw=true"/>
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/Nigerian%20map.jpg?raw=true"/>
 
+---
 
+- [Map of Nigeria geo political zones](/sample_page)
+<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/Nigerian%20map.jpg?raw=true"/>
 
 ---
 
