@@ -84,8 +84,5 @@
 
 ### GIS Online map
 
-<a href="https://arcg.is/0WzP4G">View Map of South South States, Nigeria</a>
-
-- [South South States Map of Nigeria](/sample_page)
-<img src="https://github.com/itaudotong/udotong6953.github.io/blob/master/images/2022-02-28.png?raw=true"/>
+<a href="https://arcg.is/1401CX0">Map of South South States, Nigeria</a>
 
