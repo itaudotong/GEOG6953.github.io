@@ -84,12 +84,8 @@
 
 ### GIS Online maps
 
-<br><br>
-<a href="https://storymaps.arcgis.com/stories/f3349a3e1c574e92bd5687b9c53f5a7a">Geospatial SNAP Distribution in ArcGIS Storymap</a>
-  
-<br><br>
-<a href="https://arcg.is/0y0G9O">Map of Akwa Ibom State, Nigeria</a>
+<a href="https://storymaps.arcgis.com/stories/f3349a3e1c574e92bd5687b9c53f5a7a">Spatial SNAP Distribution in Hillsborough County (ArcGIS Storymap)</a>
 
-<br><br>
 <a href="https://arcg.is/1401CX0">Map of South South States, Nigeria</a>
 
+<a href="https://arcg.is/1aDvGq">Map of Akwa Ibom State, Nigeria</a>
