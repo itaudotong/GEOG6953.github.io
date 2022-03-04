@@ -82,7 +82,7 @@
 ---
 
 
-### GIS Online map
+### GIS Online maps
 
 <a href="https://arcg.is/1401CX0">Map of South South States, Nigeria</a>
 
