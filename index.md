@@ -89,3 +89,10 @@
 <a href="https://arcg.is/1401CX0">Map of South South States, Nigeria</a>
 
 <a href="https://arcg.is/1aDvGq">Map of Akwa Ibom State, Nigeria</a>
+
+
+### Remote Sensing App
+
+<a href="https://itaudotong.users.earthengine.app/view/geog69531">Split Panel app to investigate a burned area. </a>
+
+
