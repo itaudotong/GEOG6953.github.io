@@ -95,4 +95,6 @@
 
 <a href="https://itaudotong.users.earthengine.app/view/geog69531">Split Panel app to investigate a burned area. </a>
 
+<a href="https://itaudotong.users.earthengine.app/view/week5">Week 5 burned area. </a>
+
 
